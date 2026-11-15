@@ -1,0 +1,13 @@
+{
+  "min_fit": 8,
+  "min_check": 8,
+  "purge_gap": 1,
+  "prior_weight": 0.05,
+  "huber_delta": 1.5,
+  "irls_steps": 6,
+  "max_step": 0.25,
+  "max_innovation": 0.5,
+  "split_agreement": 0.75,
+  "min_relative_gain": 0.02,
+  "min_absolute_gain": 0.0001
+}
